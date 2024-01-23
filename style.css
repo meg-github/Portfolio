@@ -30,8 +30,8 @@ html{background:#00183a;}
 
 /* リンク設定
 ------------------------------------------------------------*/
-a{color:#00183a;text-decoration:none;}
-a:hover{color:#292d48;}
+a{color:#F29E38;text-decoration:underline;}
+a:hover{color:#686d8f;}
 a:active, a:focus{outline:0;}
 
 
